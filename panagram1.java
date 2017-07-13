@@ -1,7 +1,7 @@
 # program
 import java.io.*;
 import java.util.*;
-public class panagram
+public class panagram1
 {
     public static void main(String args[])
     {
